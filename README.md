@@ -24,16 +24,57 @@ In dit artikel wil ik uitleggen
 
 De basis van een piramidespel bestaat uit een Ponzi schema,
 genoemd naar de Italiaanse zakenman Charles Ponzi. 
-Het idee is simpel: als je geld inlegt, wordt je 
-een (ongelovelijk) hoge rente beloofd. Als je -in het begin-
-dit checkt, door kleine bedragen in te leggen en -inderdaad- een
-hoge winst op te strijken.
+Het idee is simpel: de fraudeur start met een buffer, zegge
+duizend euro (dit is een realistisch getal!) en belooft
+de klant (ongelovelijk) hoge rentes. Klanten zullen eerst
+kleine bedragen inleggen en eventueel de hoge rentes opstrijken,
+zolang de buffer het toelaat. Door het gewonnen vertrouwen,
+leggen de klanten meer geld in. Als op een dag daadwerkelijk
+de hoge winsten worden opgenomen, gaat het bedrijf (bewust!)
+faillier: het ingelegde geld is immers al doorgestuurd 
+naar een andere bankrekening.
 
+Het belangrijkste verschil met banken, is dat banken niet failliet
+willen gaan: als je een bedrag op een bankrekening zet, 
+wordt er voor gezorgd dat je dit ook weer op kunt nemen.
+Bij een Ponzischema is het doel om zoveel mogelijk geld te ontvangen,
+waarbij de belofte (en enkel die belofte!) de klant hiertoe verleidt. 
 
+Het beloven van de hoge rendementen is een interessant psychologisch spel: 
+de klant moet genoeg beloofd krijgen om verleid te worden tot inleg, 
+maar niet ten koste van de geloofwaardigheid van het bedrijf.
+En ook: hoe meer winst beloofd wordt, hoe eerder een opname zal gebeuren
+waarbij het bedrijf failliet gaat.
 
-## De uitbreiding: het piramidespel
+## De eerste uitbreiding: een product
 
-Het product is compleet irrelevant.
+Een eerste uitbreiding op een Ponzi schema is de illusie van een investering
+of produkt. Dit product kan alles zijn, zoals voedingssupplementen, parfum,
+sieraden, edelmetaal of -heel modern- cryptocurrencies. Het idee is dat de
+klant de illusie krijgt dat het bedrijf legitiem en buitengewoon
+innovatief handelt. In werkelijkheid doet het bedrijf dit niet, of hoogstens
+zeer minimaal: de inkomsten voor het bedrijf bestaat uit de verplichte inleg
+van nieuwe deelnemers.
+
+## De tweede uitbreiding: het piramidespel
+
+De tweede uitbreiding van een Ponzi schema, waardoor het een piramidespel
+wordt, is het belonen van het werven van nieuwe leden. 
+Dit is voor het bedrijf interessant, want nieuwe leden (die geld in moeten
+leggen om mee te doen) leveren geld op. De deelnemer die nieuwe leden
+werft wordt meer geld beloofd.
+
+Dit is ook een interessant psychologisch spel: het bedrijf heeft er baat bij
+dat er fanatiek nieuwe leden geworven worden. Een veelgebruikte truc is
+dat er een exponentiele winstgroei wordt beloofd: als de geworven leden ook
+nieuwe leden gaan werven, heeft dit ook positieve beloften voor de deelnemer
+aan de top. Deze winstuitkering is prima weer te geven in een piramideschema,
+vandaar het woord 'piramide' in piramidespel.
+
+Deelnemers van een piramidespel zien ook wel een piramidestructuur (ook
+al wordt deze soms op een andere (equivalente!) manier weergegeven),
+maar duiden dit vaak als een normaal multi-level marketing (MLM) principe.
+Nu zijn niet alle MLMs illegaal, maar dat betekent niet dat ze
 
 ## De wiskunde
 
